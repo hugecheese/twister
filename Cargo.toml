@@ -1,0 +1,13 @@
+[package]
+name = "twister"
+description = "Twister application - WIP"
+version = "0.1.0"
+authors = ["Twister Contributors"]
+edition = "2018"
+license = "AGPL-3.0-only"
+readme = "README.md"
+keywords = ["twister"]
+repository = "https://github.com/hugecheese/twister"
+homepage = "https://github.com/hugecheese/twister"
+
+[dependencies]
